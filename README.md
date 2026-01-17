@@ -32,7 +32,7 @@ Ushbu loyiha **Django framework** yordamida yaratilgan **shaxsiy blog web sayt**
 ```bash
 blog_project/
 │
-├── blog_project/
+├── config/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
@@ -58,6 +58,7 @@ blog_project/
 │   ├── css/
 │   └── images/
 │
+├──.env.example
 ├── manage.py
 └── README.md
 ```
